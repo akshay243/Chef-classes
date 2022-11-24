@@ -1,4 +1,4 @@
-le 'test.sh' do
+file 'test.sh' do
 content 'hello chef'
 mode '0754'
 group 'root'

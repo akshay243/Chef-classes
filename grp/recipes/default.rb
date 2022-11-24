@@ -1,4 +1,6 @@
-#
+group 'nfast' do
+action     :create
+end
 # Cookbook:: grp
 # Recipe:: default
 #
